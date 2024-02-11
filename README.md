@@ -5,5 +5,3 @@
 <img src="images/demo.png" alt="">
 
 ## View it live 👇
-
-
