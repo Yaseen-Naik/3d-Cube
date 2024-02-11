@@ -5,3 +5,5 @@
 <img src="images/demo.png" alt="">
 
 ## View it live 👇
+
+https://yaseen-naik.github.io/3d-Cube/
