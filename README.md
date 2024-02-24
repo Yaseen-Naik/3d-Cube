@@ -4,6 +4,6 @@
  ## Demo
 <img src="images/demo.png" alt="">
 
-## View it live 👇
+## View Live
 
-https://yaseen-naik.github.io/3d-Cube/
+<a href="https://yaseen-naik.github.io/3d-Cube/">Click Me</a>
